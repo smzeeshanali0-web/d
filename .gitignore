@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+**/build/
+local.properties
+*.iml
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+uploads/
+data/
+.env
